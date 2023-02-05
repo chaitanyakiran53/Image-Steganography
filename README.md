@@ -33,3 +33,6 @@ Use the GUI to hide and extract secret messages.
 
 # Contributing
 If you wish to contribute to the project, you can submit a pull request with your changes.
+
+# NOTE
+If you are in trouble with finding encoded images try search in C:\Users\[current-user]
