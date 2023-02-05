@@ -1,5 +1,5 @@
 # Image-Steganography
-This is a Python-based Steganography project that uses Tkinter for GUI. It allows users to hide secret messages in an image file, and extract the hidden message when needed. The project provides a secure way of communication and can be used for personal or educational purposes.
+Image steganography is the practice of hiding secret messages or data within an image file. The process involves altering the least significant bits of the image pixels in such a way that the changes are not noticeable to the human eye, but can be retrieved by someone who knows the correct method to extract the hidden message.
 
 # Python Steganography with Tkinter GUI
 This is a Python-based Steganography project that uses Tkinter for GUI. It allows users to hide secret messages in an image file, and extract the hidden message when needed. The user-friendly interface of the project is built using the Tkinter library in Python, making it easy to use for anyone. The project provides a secure way of communication and can be used for personal or educational purposes.
